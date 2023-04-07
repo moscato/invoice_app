@@ -1,14 +1,17 @@
-console.log('app.js is working');
 
 
+//class names:  txt, sendBtn, here
 
-let vic = document.querySelector('.vic');
+let txt = document.querySelector('.txt');
 let sendBtn = document.querySelector('.sendBtn');
-let number4 = document.querySelector('.number4');
+let here = document.querySelector('.here');
 
-number4.textContent = 'New number 4'
 
 
 sendBtn.addEventListener('click', () => {
-    vic.style.color = 'red';
+
+    let val = txt.value
+    here.textContent = val
+
 })
+
