@@ -39,4 +39,247 @@ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
 To github.com:moscato/invoice_app.git
    658d1ac..981c6f6  main -> main
 
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ ^C
 
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ touch notes.txt
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ echo "^[[200~" > notes.txt
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder
+$ ls
+invoice_app/
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder
+$ cd invoice_app/
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git fetch
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git pull
+Already up to date.
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ code .
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git add .
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git commit -m "this is a message here thats gonna go along with my commit"
+[main 981c6f6] this is a message here thats gonna go along with my commit
+ 1 file changed, 11 insertions(+)
+
+Owner@D
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Enumerating objects: 5, done.
+ 1 file changed, 11 insertions(+)
+bash: syntax error near unexpected token `('
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 313 bytes | 104.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To github.com:moscato/invoice_app.git
+   658d1ac..981c6f6  main -> main
+
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder
+bash: Owner@DESKTOP-MAIOBCB: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ rm -r del_this/
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder
+bash: Owner@DESKTOP-MAIOBCB: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ ls
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ invoice_app/
+bash: invoice_app/: No such file or directory
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder
+bash: Owner@DESKTOP-MAIOBCB: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ cd invoice_app/
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ git fetch
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ git pull
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Already up to date.
+bash: Already: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ code .
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ git add .
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ git commit -m "this is a message here thats gonna go along with my commit"
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ [main 981c6f6] this is a message here thats gonna go along with my commit
+bash: [main: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ $ git push
+bash: $: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Enumerating objects: 5, done.
+bash: Enumerating: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Counting objects: 100% (5/5), done.
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Delta compression using up to 4 threads
+bash: Delta: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Compressing objects: 100% (3/3), done.
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Writing objects: 100% (3/3), 313 bytes | 104.00 KiB/s, done.
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+bash: syntax error near unexpected token `('
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ To github.com:moscato/invoice_app.git
+bash: To: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$    658d1ac..981c6f6  main -> main
+bash: 658d1ac..981c6f6: command not found
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git add .
+warning: in the working copy of 'notes.txt', LF will be replaced by CRLF the next time Git touches it
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git commit
+hint: Waiting for your editor to close the file...
+[main 7399bbc] WRITING MY CHANGES HERE!
+ 2 files changed, 42 insertions(+)
+ create mode 100644 main
+ create mode 100644 notes.txt
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 750 bytes | 187.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To github.com:moscato/invoice_app.git
+   981c6f6..7399bbc  main -> main
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git branch
+* main
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git branch -r
+  origin/HEAD -> origin/main
+  origin/main
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$
