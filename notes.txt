@@ -1,0 +1,42 @@
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder
+$ rm -r del_this/
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder
+$ ls
+invoice_app/
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder
+$ cd invoice_app/
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git fetch
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git pull
+Already up to date.
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ code .
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git add .
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git commit -m "this is a message here thats gonna go along with my commit"
+[main 981c6f6] this is a message here thats gonna go along with my commit
+ 1 file changed, 11 insertions(+)
+
+Owner@DESKTOP-MAIOBCB MINGW64 ~/Desktop/git_folder/invoice_app (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 313 bytes | 104.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To github.com:moscato/invoice_app.git
+   658d1ac..981c6f6  main -> main
+
+
