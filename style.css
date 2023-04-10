@@ -1,0 +1,15 @@
+
+
+.container {
+    border : 2px solid black;
+    width: 30%;
+    padding: .5%;
+}
+
+.totalHead {
+    display: flex;
+}
+
+.totalCost {
+    margin-left: 2%;
+}

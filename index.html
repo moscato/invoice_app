@@ -5,47 +5,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
 
-
-    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
-    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
-
-    <title>Document</title>
+    <title>Invoice App</title>
 </head>
 
 <body>
-    <h1 class="vic">Vicente</h1>
-    <br>
-    <button class="sendBtn">!!!</button>
-    <br>
-    <textarea class="txt"></textarea>
-    <h1>Coffe</h1>
-    <h2>Coffe</h2>
-    <h3>Coffe</h3>
-    <h4 class="number4">Coffe</h4>
-    
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
-    <p><i>Nicentenueve</i></p>
+    <h1>Invoice_App</h1>
+    <div class="container">
+          <br>
+        <input type="text" class="jobIn" placeholder="Job">
+          <br>
+        <div class="costBox">
+            <h4 class="costs">$ $ $</h4>
+              <div class="incost">
+                <input type="text" class="itemIn" placeholder="Item">
+                <input type="number" class="costIn" placeholder="Cost">
+              </div>
+              <br>
+            <button class="valIn">Go!</button>
+        </div>
+    </div>
 
-    <script src="app.js"></script>
+    <div class="totalHead">
+        <h1 class="jobHere">JOB-NAME</h1>
+        <h1 class="totalCost">$ ~</h1>
+    </div>
+    <ul class="costValues"></ul>
 
-    <py-script>
-
-        print("This works also");
-
-    </py-script>
-
-
+<script src="app.js"></script>
 </body>
 
 </html>
