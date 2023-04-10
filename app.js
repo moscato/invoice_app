@@ -31,18 +31,4 @@ valIn.addEventListener('click', () => {
 
 
 
-
-/*
-here
-jobHere
-valIn
-itemCost
-itemName
-incost
-costs
-joibIn
-
-
-
-*/
 console.log('app.js is working');
