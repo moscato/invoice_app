@@ -10,6 +10,8 @@ let jobHere = document.querySelector('.jobHere');
 let costValues = document.querySelector('.costValues');
 let totalCost = document.querySelector('.totalCost');
 
+const printBtn = document.querySelector('.printBtn');
+
 let noCost = 0;
 
 function sendItems(element, message) {
@@ -25,10 +27,13 @@ valIn.addEventListener('click', () => {
     costVal = itemIn.value + " - $" + costIn.value
     sendItems(costValues, costVal);
 
-    let allCostVal = noCost += parseInt(costIn.value);
+    let allCostVal = noCost += parseFloat(parseFloat(costIn.value).toFixed(2));
     totalCost.textContent = '$ ' + allCostVal;
 });
 
 
+printBtn.addEventListener('click', () => {
+    window.print();
+  });
 
 console.log('app.js is working');
